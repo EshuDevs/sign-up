@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.sign-up{
+    display: flex;
+    color: white;
+    background-image: url("./pictures/androids.jpg");
+    justify-content: space-between;
+}
+.navbar{
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+    align-items: center;
+}
+
